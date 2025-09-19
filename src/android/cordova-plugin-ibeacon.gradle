@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    implementation 'org.altbeacon:android-beacon-library:2.19'
+    implementation 'org.altbeacon:android-beacon-library:2.21.1'
 }
 
 android {
@@ -14,3 +14,4 @@ android {
         exclude 'META-INF/LICENSE'
     }
 }
+
